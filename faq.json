@@ -1,0 +1,17 @@
+[
+  { "id": 1, "category": "requirements", "question": "What are the requirements for incoming freshmen?", "answer": "Freshmen must submit Form 138 (Report Card), Certificate of Good Moral Character, 2x2 photo, and PSA Birth Certificate." },
+  { "id": 2, "category": "requirements", "question": "What are the transfer applicant requirements?", "answer": "Transferees need an Honorable Dismissal, Transcript of Records (TOR) for evaluation, Good Moral Certificate, and PSA Birth Certificate." },
+  { "id": 3, "category": "requirements", "question": "Is an entrance exam required?", "answer": "Yes, all new applicants must take the Bayanihan College Placement Test (BCPT)." },
+  { "id": 4, "category": "schedule", "question": "When does First Semester enrollment start?", "answer": "Enrollment for the First Semester starts on June 1, 2026, and ends on July 15, 2026." },
+  { "id": 5, "category": "schedule", "question": "What is the deadline for late enrollment?", "answer": "Late enrollment is permitted up to 2 weeks after the official start of classes with a late fee." },
+  { "id": 6, "category": "schedule", "question": "When do classes start for AY 2026-2027?", "answer": "Classes officially begin on August 3, 2026." },
+  { "id": 7, "category": "payment", "question": "Can I pay tuition in installments?", "answer": "Yes. Tuition can be paid in four installments: upon enrollment, prelims, midterms, and finals." },
+  { "id": 8, "category": "payment", "question": "What online payment channels are accepted?", "answer": "Payments can be made via GCash, Maya, Bank Transfer (BDO, BPI), or directly at the Campus Cashier." },
+  { "id": 9, "category": "payment", "question": "Is there a discount for full downpayment?", "answer": "Yes, a 5% discount on tuition fees is granted for full upfront payment during enrollment." },
+  { "id": 10, "category": "scholarship", "question": "Does Bayanihan College offer academic scholarships?", "answer": "Yes. High school valedictorians receive 100% tuition discount, and salutatorians receive 50% tuition discount." },
+  { "id": 11, "category": "scholarship", "question": "Are CHED or UniFAST grants accepted?", "answer": "Yes, CHED Tulong Dunong and UniFAST TES grants are honored upon submitting validation certificates." },
+  { "id": 12, "category": "scholarship", "question": "How can I apply for a working student scholarship?", "answer": "Submit a letter of intent and income tax return (ITR) of parents to the Student Affairs Office." },
+  { "id": 13, "category": "registrar", "question": "How do I request a Transcript of Records (TOR)?", "answer": "Fill out the Document Request Form at the Registrar's Office or online portal and pay the standard fee." },
+  { "id": 14, "category": "registrar", "question": "Where can I request a Certificate of Enrollment?", "answer": "Certificates of Enrollment can be generated via the student portal or requested directly at Window 2." },
+  { "id": 15, "category": "registrar", "question": "How can I drop or change subjects?", "answer": "Submit an Adding/Dropping Form signed by your Department Head to the Registrar within the first 2 weeks." }
+]
